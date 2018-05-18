@@ -25,6 +25,6 @@ def anagram(s1,s2):
 
 
 def main():
-  anagram('earth','hear')
+  anagram('earth','heart')
 
 main()
